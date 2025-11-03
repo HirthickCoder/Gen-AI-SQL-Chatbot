@@ -1,0 +1,995 @@
+id,name,price,mrp,rating,seller,Category,Gender
+1,Men Solid Oversized Cotton,532,1299,4.1,Difference of Opinion,Men's T-Shirts,Men
+2,Men Cotton Pure Cotton T-shirt,274,499,4.2,Roadster,Men's T-Shirts,Men
+3,Women Pure Cotton T-shirt,551,1199,4.5,DILLINGER,Women's T-Shirts,Women
+4,Typography Print T-shirt,296,1099,4.0,Huetrap,Unisex T-Shirts,Unisex
+5,Printed Round Neck Pure Cotton T-shirt,494,899,4.2,Roadster,Unisex T-Shirts,Unisex
+6,Boys Pack of 5 T-shirt,699,4995,4.1,HELLCAT,Unknown,Unknown
+7,Polo Collar Cotton Pure Cotton T-shirt,449,899,4.1,Roadster,Unisex T-Shirts,Unisex
+8,Boys Pack Of 5 Printed T-shirt,699,4995,4.1,HELLCAT,Kidswear - Boys,Unisex
+9,Printed Pure Cotton T-shirt,279,699,4.2,HRX by Hrithik Roshan,Unisex T-Shirts,Unisex
+10,Printed Round Neck Pure Cotton T-shirt,399,799,4.1,Roadster,Unisex T-Shirts,Unisex
+11,Printed Round Neck Pure Cotton T-shirt,419,699,4.1,Roadster,Unisex T-Shirts,Unisex
+12,Longline T-shirt with Raw Edge,463,799,3.9,Roadster,Unisex T-Shirts,Unisex
+13,Printed Oversized Pure Cotton T-shirt,551,1199,4.5,DILLINGER,Unisex T-Shirts,Unisex
+14,Men Camouflage Printed Loose T-shirt,479,1199,4.1,VEIRDO,Men's T-Shirts,Men
+15,Time Travlr Sleveless Pure Cotton T-shirt,124,499,4.1,Roadster,Men's T-Shirts,Men
+16,Men Striped Polo Collar T-shirt,1199,1999,4.6,Louis Philippe Sport,Men's T-Shirts,Men
+17,Men Striped Polo Collar T-shirt,349,1399,4.1,Roadster,Men's T-Shirts,Men
+18,Henley Neck T-shirt,274,499,4.2,Roadster,Unisex T-Shirts,Unisex
+19,Typography Cotton T-shirt,299,599,4.0,Roadster,Unisex T-Shirts,Unisex
+20,Women Candy Stripes T-shirt,494,1099,4.2,Moda Rapido,Women's T-Shirts,Women
+21,Printed Cotton Pure Cotton T-shirt,399,799,4.2,Roadster,Unisex T-Shirts,Unisex
+22,Cotton Oversized T-Shirt,545,1299,4.6,DILLINGER,Men's T-Shirts,Men
+23,Solid Round Neck T-shirt,359,799,4.1,Roadster,Unisex T-Shirts,Unisex
+24,Printed Cotton Pure Cotton T-shirt,384,699,4.2,HRX by Hrithik Roshan,Unisex T-Shirts,Unisex
+25,Slim Tropical Printed Pure Cotton T-shirt,461,1099,4.1,Urbano Fashion,Men's T-Shirts,Men
+26,Men Polo Collar Slim Fit T-shirt,1699,1699,4.5,U.S. Polo Assn.,Men's T-Shirts,Men
+27,Colourblocked Pure Cotton,349,699,4.3,Roadster,Unisex T-Shirts,Unisex
+28,Men Printed Football T-shirt,3849,5499,4.8,Puma,Men's T-Shirts,Men
+29,Colourblocked Raw Edge T-shirt,359,799,4.0,Roadster,Unisex T-Shirts,Unisex
+30,Polo Collar Cotton Pure Cotton T-shirt,454,1299,4.1,HERE&NOW,Unisex T-Shirts,Unisex
+31,Women Typography Printed Loose T-shirt,524,1499,4.4,DILLINGER,Women's T-Shirts,Women
+32,Curl Edge Cotton T-shirt,199,399,4.0,Roadster,Unisex T-Shirts,Unisex
+33,Men Colourblocked Polo Collar T-shirt,449,899,3.9,Roadster,Men's T-Shirts,Men
+34,Men Solid Pure Cotton T-shirt,1299,2599,4.0,Nautica,Men's T-Shirts,Men
+35,Drop Shoulder Longline T-shirt,319,799,4.1,Roadster,Unisex T-Shirts,Unisex
+36,Printed Round Neck T-Shirt,1799,1999,4.5,Puma,Unisex T-Shirts,Unisex
+37,Women White Wide T-shirt,699,699,4.2,H&M,Women's T-Shirts,Women
+38,Rapid Dry Raglan Polo T-shirt,714,1299,3.9,HRX by Hrithik Roshan,Men's T-Shirts,Men
+39,Printed Boxy Fit T-shirt,279,799,4.1,Roadster,Unisex T-Shirts,Unisex
+40,Men Solid Pure Cotton T-shirt,1299,2599,4.4,Nautica,Men's T-Shirts,Men
+41,Polo Collar Oversized T-shirt,1393,1699,3.9,Bonkers Corner,Unisex T-Shirts,Unisex
+42,Printed Pure Cotton T-shirt,359,599,4.3,Roadster,Unisex T-Shirts,Unisex
+43,Men 2022 Fan Jersey,844,1299,4.4,Puma,Men's T-Shirts,Men
+44,Striped Henley Neck Pure Cotton T-shirt,449,899,4.0,Roadster,Unisex T-Shirts,Unisex
+45,Printed Henley T-shirt,314,899,4.2,Roadster,Unisex T-Shirts,Unisex
+46,Oversized Pure Cotton T-shirt,659,1199,4.4,Kook N Keech,Unisex T-Shirts,Unisex
+48,Printed Round Neck Pure Cotton T-shirt,319,799,4.2,Roadster,Unisex T-Shirts,Unisex
+49,Solid Polo Collar Pure Cotton T-shirt,449,1499,4.1,Roadster,Unisex T-Shirts,Unisex
+50,Polo Collar Cotton Pure Cotton T-shirt,764,1699,4.1,HERE&NOW,Unisex T-Shirts,Unisex
+51,Women Mid Rise Shorts,532,1299,0.0,BRINNS,Women's Bottoms,Women
+52,Puffed Sleeves Casual Shirt,899,1499,0.0,Wool Trees,Men's Shirts,Men
+53,Typography Printed T-shirt,559,699,0.0,Okane,Unisex T-Shirts,Unisex
+54,Embroidered Georgette Top,847,2499,0.0,WEAVETECH IMPEX,Women's Tops,Women
+55,Lace Inserted Pure Cotton Top,1999,1999,0.0,Sztori,Women's Tops,Women
+56,Shoulder Straps Fitted Top,493,1299,0.0,BRINNS,Women's Tops,Women
+57,Shirt Collar Checked Dress,1649,1649,0.0,Styli,Women's Dresses,Women
+58,Cotton Knitted Twisted Dress,2249,2999,0.0,Urban Revivo,Women's Dresses,Women
+59,Modal Oversized T-shirt,749,1049,0.0,Kanvin,Men's T-Shirts,Men
+60,Flared Sleeve Maxi Dress,1449,1449,0.0,Styli,Women's Dresses,Women
+61,Women Straight Fit Jeans,2199,2199,0.0,ELLIS,Women's Bottoms,Women
+62,V-Neck Shirt Style Top,797,1899,0.0,RAASSIO,Women's Tops,Women
+63,Striped Halter Neck Top,899,2999,0.0,GUTI,Women's Tops,Women
+64,Printed Cotton Co-Ords Set,1399,3499,0.0,TAG 7,Women's Bottoms,Women
+65,Striped Pocket Detail T-shirt,799,799,0.0,Mast & Harbour,Men's T-Shirts,Men
+66,Women Mid Rise Knitted Tights,1329,1399,0.0,Sweet Dreams,Women's Bottoms,Women
+67,Kimono Sleeves Kaftan Top,573,1739,0.0,DressBerry,Women's Tops,Women
+68,Floral Print Wrap Crop Top,1999,1999,0.0,SHEETAL Associates,Women's Tops,Women
+69,Printed A-Line Midi Dress,1399,1999,0.0,SASSAFRAS,Women's Dresses,Women
+70,Tropical Print Wrap Midi Dress,4199,5599,0.0,Urban Revivo,Women's Dresses,Women
+72,Women Extended Sleeves T-shirt,799,799,0.0,Roadster,Women's T-Shirts,Women
+73,Women Mid Rise Cotton Leggings,494,549,0.0,LYRA,Women's Bottoms,Women
+74,Women Pack Of 3 Sports Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+75,Women Straight Fit High-Rise Jeans,2999,3999,0.0,Urban Revivo,Women's Bottoms,Women
+76,Fitted Cinched Waist Top,1239,3099,0.0,NEUDIS,Women's Tops,Women
+77,Women Pack Of 3 Sports Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+78,Women Mid Rise Shorts,531,1399,0.0,BRINNS,Women's Bottoms,Women
+79,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+80,Geometric Printed Top,759,1999,0.0,BRINNS,Women's Tops,Women
+81,Printed Basic Jumpsuit,1739,4349,0.0,Juniper,Women's Bottoms,Women
+82,Printed Crop Top,6999,6999,0.0,ADIDAS,Women's Tops,Women
+83,Cotton Relaxed Fit T-shirt,499,499,0.0,Styli,Men's T-Shirts,Men
+84,Print Denim A-Line Mini Dress,2000,2000,0.0,SUMAVI-FASHION,Women's Dresses,Women
+85,Women Mid-Rise Plain Trousers,494,549,0.0,LYRA,Women's Bottoms,Women
+86,Sleeveless Fit & Flare Dress,1735,2799,0.0,BoStreet,Women's Dresses,Women
+87,Women Maternity Track Pants,1999,1999,0.0,Frempy,Women's Bottoms,Women
+88,Women High Rise Knitted Tights,1519,1599,0.0,Sweet Dreams,Women's Bottoms,Women
+89,Women Typography Printed Applique T-shirt,599,999,0.0,T-SHIRT TRUCK,Women's T-Shirts,Women
+90,Puff Sleeves Cotton Top,1049,1049,0.0,Styli,Women's Tops,Women
+92,Flared Sleeves Crop Top,1999,1999,0.0,SHEETAL Associates,Women's Tops,Women
+93,Shoulder Straps Mini Dress,1599,2499,0.0,BoStreet,Women's Dresses,Women
+94,Halter Neck Top,899,2999,0.0,GUTI,Women's Tops,Women
+95,Women Shrug,625,1199,0.0,Nimble,Accessories,Unisex
+96,Sleeveless Fitted Crop Top,384,699,0.0,Disrupt,Women's Tops,Women
+97,Floral Print Chiffon Fit & Flare Dress,599,1999,0.0,MODWEE,Women's Dresses,Women
+98,Top Solid,899,2999,0.0,GUTI,Women's Tops,Women
+99,Women Stretchable Cotton Jeans,1199,2399,0.0,urSense,Women's Bottoms,Women
+100,Women Skinny Fit Jeans,2999,2999,0.0,Vero Moda,Women's Bottoms,Women
+101,Gold-Plated Jewellery Set,1488,4800,0.0,GRIIHAM,Jewelry,Unisex
+102,UV Protected Oval Sunglasses,4999,4999,0.0,RESIST EYEWEAR,Accessories,Unisex
+103,Rhodium-Plated Jewellery Set,1484,5499,0.0,Aazeen,Jewelry,Unisex
+104,Gold-Plated Finger Ring,369,369,0.0,MYKI,Jewelry,Unisex
+105,Set of 6 Hair Accessory,599,599,0.0,Hair Flare,Accessories,Unisex
+106,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+107,Gold-Plated Jewellery Set,645,1699,0.0,MANSIYAORANGE,Jewelry,Unisex
+108,Women Textured Casual Belt,391,1399,0.0,CRUSSET,Accessories,Unisex
+109,Body Wash With Body Spray,514,514,0.0,FRENCH ESSENCE,Beauty and Personal Care,Unisex
+110,Studs Earrings,1258,1573,0.0,PALMONAS,Accessories,Unisex
+111,Set Of 2 Gold-Plated Anklets,2995,2995,0.0,Silvermerc Designs,Jewelry,Unisex
+112,Gold-Plated Long Jewellery Set,465,1699,0.0,MANSIYAORANGE,Jewelry,Unisex
+113,Gold-Plated Necklace,339,1699,0.0,ROFARWORD,Jewelry,Unisex
+114,Gold-Plated Jewellery Set,309,1549,0.0,ROFARWORD,Jewelry,Unisex
+115,Gold-Plated Jewellery Set,1395,4500,0.0,GRIIHAM,Jewelry,Unisex
+116,Gold-Plated Drop Earrings,749,3745,0.0,Peora,Jewelry,Unisex
+117,Gold-Plated Statement Necklace,994,2925,0.0,SOHI,Jewelry,Unisex
+118,Gold-Plated Jewellery Set,339,1699,0.0,ROFARWORD,Jewelry,Unisex
+119,Silver-Plated Oxidized Bangle,1999,1999,0.0,Samridhi DC,Jewelry,Unisex
+120,Gold-Plated Jewellery Set,882,2264,0.0,Sukkhi,Jewelry,Unisex
+121,Textured Structured Sling Bag,1690,1690,0.0,Metro,Accessories,Unisex
+122,Studs Earrings,1416,1770,0.0,PALMONAS,Accessories,Unisex
+123,Women Silver-Plated Charm Bracelet,899,4495,0.0,Peora,Jewelry,Unisex
+124,Rose Gold-Plated Finger Ring,349,349,0.0,MYKI,Jewelry,Unisex
+125,Rose Gold-Plated Mangalsutra,881,5875,0.0,Vita Bella,Jewelry,Unisex
+126,Set of 2 Silver-Plated Anklets,1999,1999,0.0,RUHI COLLECTION,Jewelry,Unisex
+127,Drop Earrings,399,399,0.0,MYKI,Jewelry,Unisex
+128,Rhodium-Plated Jewellery Set,559,2799,0.0,Aazeen,Jewelry,Unisex
+129,Women PU Belt With Chain Drop,1195,1195,0.0,20Dresses,Accessories,Unisex
+130,Gold-Plated Jewellery Set,453,1164,0.0,Sukkhi,Jewelry,Unisex
+131,Silver-Plated Jewellery Set,388,2159,0.0,Anouk,Jewelry,Unisex
+132,Rhodium-Plated Drop Earrings,591,3699,0.0,Aazeen,Jewelry,Unisex
+133,Rhodium-Plated Bracelet,379,1899,0.0,Aazeen,Jewelry,Unisex
+134,Silver-Plated Ring,299,999,0.0,VIEN,Jewelry,Unisex
+135,Gold-Plated Necklace,994,2925,0.0,SOHI,Jewelry,Unisex
+136,Brass Gold-Plated Layered Necklace,299,2499,0.0,Aazeen,Jewelry,Unisex
+137,Set Of 2 Gold-Plated Bangles,665,3699,0.0,Aazeen,Jewelry,Unisex
+138,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+139,Drop Earrings,1899,1899,0.0,Jewelz,Jewelry,Unisex
+140,Set of 2 Coffee Body Wash,798,798,4.5,MCaffeine,Beauty and Personal Care,Unisex
+141,Gold-Plated Short Chain,149,999,0.0,JEWEL WORLD,Jewelry,Unisex
+142,Studs Earrings,320,320,0.0,MYKI,Accessories,Unisex
+143,Jhumkas Earrings,459,1999,0.0,Aazeen,Accessories,Unisex
+144,Textured Structured Sling Bag,1690,1690,0.0,Metro,Accessories,Unisex
+145,Gold-Plated Jewellery Set,4000,12500,0.0,GRIIHAM,Jewelry,Unisex
+146,Gold-Plated Necklace,1198,3525,0.0,SOHI,Jewelry,Unisex
+147,Jhumkas Earrings,299,2999,0.0,Kord Store,Accessories,Unisex
+148,Drop Earrings,399,399,0.0,MYKI,Jewelry,Unisex
+149,Rhodium-Plated Jewellery Set,1484,5499,0.0,Aazeen,Jewelry,Unisex
+150,Gold-Plated Necklace,359,1799,0.0,ROFARWORD,Jewelry,Unisex
+151,Printed Cotton Kurta,2199,2199,0.0,Fabindia,Ethnic Wear - Men,Men
+152,Gold-Plated Jewellery Set,1488,4800,0.0,GRIIHAM,Jewelry,Unisex
+153,Kalamkari Tussar Jute Silk Saree,22899,45798,0.0,Unnati Silks,Sarees,Unisex
+154,Floral Kanjeevaram Saree,5599,5599,0.0,MIMOSA,Sarees,Unisex
+155,Woven Design Taant Saree,4785,4785,0.0,AllSilks,Sarees,Unisex
+156,Gold-Plated Jewellery Set,645,1699,0.0,MANSIYAORANGE,Jewelry,Unisex
+157,Semi-Stitched Lehenga Unstitched Blouse With Dupatta,2299,2299,0.0,APNISHA,Lehengas,Unisex
+158,Ready to Wear Lehenga Blouse With Dupatta,6682,12850,0.0,Fusionic,Lehengas,Unisex
+159,Zari Banarasi Saree,835,1899,0.0,Ode by House of Pataudi,Sarees,Unisex
+160,Woven Design Kanjeevaram Saree,749,2497,0.0,HERE&NOW,Sarees,Unisex
+161,Striped Pure Cotton Saree,2512,3490,0.0,Charukriti,Sarees,Unisex
+162,Woven Design Silk Cotton Saree,2340,3250,0.0,Charukriti,Sarees,Unisex
+163,Kurti With Sharara & Dupatta,2949,4999,0.0,SCAKHI,Ethnic Wear - Women,Women
+164,Printed Embellished Saree,1343,4799,0.0,Anouk,Sarees,Unisex
+165,Woven Design Banarasi Silk Blend Saree,1399,6995,0.0,RAJGRANTH,Sarees,Unisex
+166,Kurta with Trousers & Dupatta,3500,4375,0.0,HOUSE OF JAMOTI,Ethnic Wear - Men,Men
+167,Gold-Plated Long Jewellery Set,465,1699,0.0,MANSIYAORANGE,Jewelry,Unisex
+168,Woven Design Art Silk Saree,2695,2695,0.0,Meena Bazaar,Sarees,Unisex
+169,Pure Chiffon Leheriya Saree,719,2999,0.0,KALINI,Sarees,Unisex
+170,Gold-Plated Necklace,339,1699,0.0,ROFARWORD,Jewelry,Unisex
+171,Printed Cotton Ethnic Dress,4671,7299,0.0,SCAKHI,Ethnic Wear - Women,Women
+172,Printed Pure Cotton Saree,1063,3799,0.0,Anouk,Sarees,Unisex
+173,Paisley Kanjeevaram Saree,4999,4999,0.0,MIMOSA,Sarees,Unisex
+174,Floral Printed Anarkali Kurta,2600,2600,0.0,INDYA,Ethnic Wear - Women,Women
+175,Ethnic Motifs Silk Blend Saree,3999,3999,0.0,Phenav,Sarees,Unisex
+176,Silver-Plated Oxidized Bangle,1999,1999,0.0,Samridhi DC,Jewelry,Unisex
+177,Gold-Plated Jewellery Set,882,2264,0.0,Sukkhi,Jewelry,Unisex
+178,Floral Pure Cotton Saree,2340,3250,0.0,Charukriti,Sarees,Unisex
+179,Printed Straight Kurta,699,1999,0.0,SkyaSia,Ethnic Wear - Women,Women
+180,Rose Gold-Plated Mangalsutra,881,5875,0.0,Vita Bella,Jewelry,Unisex
+181,Ethnic Motifs Silk Blend Saree,3999,3999,0.0,Phenav,Sarees,Unisex
+182,Women Embroidered Kurta with Trousers With Dupatta,1646,4449,0.0,navibhu,Ethnic Wear - Women,Women
+183,Chanderi Silk Cotton Saree,1552,6749,0.0,Pisara,Sarees,Unisex
+184,Tie And Dye Printed Zari Saree,1147,4099,0.0,Anouk,Sarees,Unisex
+185,Striped Pure Cotton Saree,2999,2999,0.0,Fabindia,Sarees,Unisex
+186,Woven Design Pure Cotton Saree,5032,6990,0.0,Charukriti,Sarees,Unisex
+187,Kurti,1900,1900,0.0,CRAZEVILLA,Ethnic Wear - Women,Women
+188,Kurta with Trousers & Dupatta,3498,4373,0.0,HOUSE OF JAMOTI,Ethnic Wear - Men,Men
+189,Kota Pure Cotton Saree,1699,3398,0.0,Unnati Silks,Sarees,Unisex
+190,Rhodium-Plated Drop Earrings,591,3699,0.0,Aazeen,Jewelry,Unisex
+191,Brass Gold-Plated Layered Necklace,299,2499,0.0,Aazeen,Jewelry,Unisex
+192,Set Of 2 Gold-Plated Bangles,665,3699,0.0,Aazeen,Jewelry,Unisex
+193,Woven Design Kanjeevaram Art Silk Saree,4199,4199,0.0,MIMOSA,Sarees,Unisex
+194,Checked Pure Crepe Saree,1699,4000,0.0,Kasak,Sarees,Unisex
+195,Striped Silk Blend Saree,1133,5150,0.0,Satrani,Sarees,Unisex
+196,Checked Kanjeevaram Saree,1014,2899,0.0,Anouk,Sarees,Unisex
+197,Floral Pure Linen Saree,1799,4499,0.0,DIVASTRI,Sarees,Unisex
+198,Printed A-Line Ethnic Dress,2499,2499,0.0,KALINI,Ethnic Wear - Women,Women
+199,Striped Handloom Saree,7689,7689,0.0,AllSilks,Sarees,Unisex
+200,Printed Tussar Pure Silk Saree,5643,5643,0.0,AllSilks,Sarees,Unisex
+201,Cosmos BT Calling Smartwatch,7499,7499,0.0,pebble,Watches,Unisex
+202,Women Watch Bracelet Gift Set,5299,5299,0.0,Voylla,Watches,Unisex
+203,Women Watch Bracelet Gift Set,4399,4399,0.0,Voylla,Watches,Unisex
+204,Women Watch Bracelet Gift Set,4199,4199,0.0,Voylla,Watches,Unisex
+205,Women Watch Bracelet Gift Set,5499,5499,0.0,Voylla,Watches,Unisex
+206,Women Watch Bracelet Gift Set,3999,3999,0.0,Voylla,Watches,Unisex
+207,Women Watch Bracelet Gift Set,4549,4549,0.0,Voylla,Watches,Unisex
+208,Women Watch Bracelet Gift Set,4499,4499,0.0,Voylla,Watches,Unisex
+209,Cosmos BT Calling Smartwatch,2799,7499,0.0,pebble,Watches,Unisex
+210,Cosmos BT Calling Smartwatch,2799,7499,0.0,pebble,Watches,Unisex
+211,Cosmos BT Calling Smartwatch,2799,7499,0.0,pebble,Watches,Unisex
+212,Women Watch Bracelet Gift Set,4699,4699,0.0,Voylla,Watches,Unisex
+213,Analogue Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+214,Printed Dial Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+215,Women Bracelet Style Watch,899,4495,0.0,Swiss Design,Watches,Unisex
+216,Stainless Steel Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+217,Women Analogue Watch,813,2199,0.0,DressBerry,Watches,Unisex
+218,Women Leather Straps Watch,643,2299,0.0,Killer,Watches,Unisex
+219,Stainless Steel Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+220,Women Stainless Steel Straps Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+221,Pack Of 2 Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+222,Women Stainless Steel Straps Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+223,Women Stainless Steel Straps Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+224,Set Of 2 Analogue Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+225,Women Leather Straps Watch,874,3499,0.0,Killer,Watches,Unisex
+226,Rubber Straps Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+227,Women Leather Strap Watch,699,2499,0.0,Killer,Watches,Unisex
+228,Women Stainless Steel Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+229,Stainless Steel Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+230,Pack Of 2 Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+231,Women Stainless Steel Straps Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+232,Women Bracelet Style Watch,899,4495,0.0,Swiss Design,Watches,Unisex
+233,Stainless Steel Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+234,Ninja Call Ultra Smartwatch,1499,9999,0.0,Fire-Boltt,Watches,Unisex
+235,Stainless Steel Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+236,Women Silecon Textured Watch,43000,43000,0.0,TISSOT,Watches,Unisex
+237,Set Of 3 Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+238,Unisex Leather Watch,66500,66500,0.0,TISSOT,Watches,Unisex
+239,Women Stainless Steel Straps Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+240,Women Set Of 3 Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+241,Women Stainless Steel Straps Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+242,Analogue Straps Watch,599,3499,0.0,CERO,Watches,Unisex
+243,Women Analogue Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+244,Printed Dial Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+245,Women Stainless Steel Straps Watch,499,2199,0.0,WATCHSTAR,Watches,Unisex
+246,Women Analogue Watch,813,2199,0.0,DressBerry,Watches,Unisex
+247,Women Embellished Watch,1695,1695,0.0,maxima,Watches,Unisex
+248,Stainless Steel Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+249,Women Set Of 2 Analogue Watch,599,3499,0.0,CERO,Watches,Unisex
+250,Women Analogue Watch,1447,2895,0.0,Timex,Watches,Unisex
+251,Women Low-Rise Bikini Briefs,459,1999,0.0,Curves By ZeroKaata,Innerwear & Sleepwear - Women,Women
+252,Women Lace Thongs Briefs,459,1999,0.0,Curves By ZeroKaata,Innerwear & Sleepwear - Women,Women
+253,Women Thongs Briefs,459,1999,0.0,Curves By ZeroKaata,Innerwear & Sleepwear - Women,Women
+254,Women Boy Shorts Briefs,459,1999,0.0,Curves By ZeroKaata,Innerwear & Sleepwear - Women,Women
+255,Women Plus Size Lingerie Set,700,2500,0.0,Curves By ZeroKaata,Innerwear & Sleepwear - Women,Women
+256,Women Plus Size Lingerie Set,700,2500,0.0,Curves By ZeroKaata,Innerwear & Sleepwear - Women,Women
+257,Women Lace Hipster Briefs,459,1999,0.0,Curves By ZeroKaata,Innerwear & Sleepwear - Women,Women
+258,Slim Fit Cotton Churidar,594,1450,0.0,SECRETS BY ZEROKAATA,Men's Bottoms,Men
+259,Pack of 2 Cover Up Dress,2610,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+260,Pack of 2 Cover Up Dress,2392,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+261,Cotton Slim-Fit Churidar,594,1450,0.0,SECRETS BY ZEROKAATA,Men's Bottoms,Men
+262,Pack Of 2 Cover Up Dress,2392,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+263,Pack Of 2 Cover-up Dress,2610,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+264,Pack Of 2 Cover Up Dress,2610,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+265,Pack Of 2 Cover-up Dress,2610,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+266,Pack Of 2 Cover Up Dress,2392,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+267,Pack Of 2 Cover Up Dress,2392,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+268,Pack Of 2 Cover Up Dress,2392,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+269,Pack Of 2 Cover Up Dress,2610,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+270,Pack Of 2 Cover Up Dress,2392,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+271,Pack Of 2 Cover Up Dress,2610,7250,0.0,SECRETS BY ZEROKAATA,Women's Dresses,Women
+272,Seamless Skirt Shapewear,690,1725,5.0,SECRETS BY ZEROKAATA,Innerwear & Sleepwear - Women,Women
+273,Seamless Shapewear Skirt,690,1725,5.0,SECRETS BY ZEROKAATA,Innerwear & Sleepwear - Women,Women
+274,Seamless Skirt Shapewear,690,1725,5.0,SECRETS BY ZEROKAATA,Innerwear & Sleepwear - Women,Women
+275,4 Way Stretch Churidar Length Leggings,594,1450,5.0,SECRETS BY ZEROKAATA,Women's Bottoms,Women
+276,4 Way Stretch Cotton Leggings,594,1450,5.0,SECRETS BY ZEROKAATA,Women's Bottoms,Women
+277,4 Way Stretch Churidar Length Leggings,594,1450,5.0,SECRETS BY ZEROKAATA,Women's Bottoms,Women
+278,4 Way Stretch Churidar Length Leggings,594,1450,5.0,SECRETS BY ZEROKAATA,Women's Bottoms,Women
+279,4 Way Stretch Cotton Leggings,594,1450,5.0,SECRETS BY ZEROKAATA,Women's Bottoms,Women
+280,Kurta with Trousers,1359,3999,0.0,Sringam,Ethnic Wear - Men,Men
+281,Plus Size Printed Cotton Kurta,989,2999,0.0,Sringam,Ethnic Wear - Men,Men
+282,Ethnic Motifs Printed Kurta,989,2999,0.0,Sringam,Ethnic Wear - Men,Men
+283,Straight Kurta with Trousers,1286,3299,4.0,Sringam,Ethnic Wear - Men,Men
+284,Plus Size Kurta with Trousers,1563,4599,4.0,Sringam,Ethnic Wear - Men,Men
+285,Plus Size Silk Cotton Kurta,857,2599,0.0,Sringam,Ethnic Wear - Men,Men
+286,Plus Size  Printed Kurta,959,2999,4.0,Sringam,Ethnic Wear - Men,Men
+287,Printed Kurta with Trousers,1529,4499,0.0,Sringam,Ethnic Wear - Men,Men
+288,Floral Printed Cotton Kurta,956,2899,0.0,Sringam,Ethnic Wear - Men,Men
+289,Embroidered Silk Cotton Kurta,951,2799,0.0,Sringam,Ethnic Wear - Men,Men
+290,Plus Size Kurta with Trousers,1399,3999,0.0,Sringam,Ethnic Wear - Men,Men
+291,Women Geometric Embroidered Kurta,951,2799,4.3,Sringam,Ethnic Wear - Men,Men
+292,Ethnic Motifs Printed Kurta,927,2899,0.0,Sringam,Ethnic Wear - Men,Men
+293,Printed Extended Sleeves Top,815,1699,0.0,Ruhaans,Women's Tops,Women
+294,Striped A-Line Midi Dress,827,3599,0.0,FLAMBOYANT,Women's Dresses,Women
+295,Women Parallel Trousers,1199,2999,0.0,Next One,Women's Bottoms,Women
+296,Mandarin Collar Shirt Style Top,794,2649,0.0,MALHAAR,Women's Tops,Women
+297,Ethnic Motifs Printed Pure Cotton Kurti,499,2499,0.0,FERANOID,Ethnic Wear - Women,Women
+298,Checked Shirt Style Top,1199,1999,0.0,IDK,Women's Tops,Women
+299,Puff-Sleeved Top,999,999,4.3,H&M,Women's Tops,Women
+300,Women Plus Size Shirt,599,1499,4.7,Sztori,Unknown,Unknown
+301,UV Protected Oval Sunglasses,4999,4999,0.0,RESIST EYEWEAR,Accessories,Unisex
+302,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+303,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+304,Women Rectangle Sunglasses,1295,1295,0.0,20Dresses,Accessories,Unisex
+305,Rectangle Sunglasses,645,1290,0.0,MAGNEQ,Accessories,Unisex
+306,Women Cateye Sunglasses,1395,1395,0.0,20Dresses,Accessories,Unisex
+307,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+308,Square Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+309,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+310,Wayfarer Sunglasses,679,1999,0.0,Peter Jones Eyewear,Accessories,Unisex
+311,Women Cateye Sunglasses,1295,1295,0.0,20Dresses,Accessories,Unisex
+312,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+313,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+314,Square Sunglasses,645,1290,0.0,MAGNEQ,Accessories,Unisex
+315,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+316,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+317,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+318,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+319,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+320,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+321,Square Sunglasses,755,2799,0.0,Peter Jones Eyewear,Accessories,Unisex
+322,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+323,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+324,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+325,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+326,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+327,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+328,Rectangle Sunglasses,645,1290,0.0,MAGNEQ,Accessories,Unisex
+329,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+330,Square Sunglasses,611,1699,0.0,Peter Jones Eyewear,Accessories,Unisex
+331,Square Sunglasses,599,1499,0.0,Peter Jones Eyewear,Accessories,Unisex
+332,Rectangle Sunglasses,645,1290,0.0,MAGNEQ,Accessories,Unisex
+333,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+334,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+335,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+336,Round Sunglasses,659,2199,0.0,Peter Jones Eyewear,Accessories,Unisex
+337,Square Sunglasses,611,1699,0.0,Peter Jones Eyewear,Accessories,Unisex
+338,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+339,Women Square Sunglasses,1295,1295,0.0,20Dresses,Accessories,Unisex
+340,Aviator Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+341,Square Sunglasses,703,2199,0.0,Peter Jones Eyewear,Accessories,Unisex
+342,Wayfarer Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+343,Women Rectangle Sunglasses,1395,1395,0.0,20Dresses,Accessories,Unisex
+344,UV Protected Oval Sunglasses,1799,4999,0.0,RESIST EYEWEAR,Accessories,Unisex
+345,Cateye Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+346,Square Sunglasses,903,1290,0.0,MAGNEQ,Accessories,Unisex
+347,Wayfarer Sunglasses,1043,1490,0.0,MAGNEQ,Accessories,Unisex
+348,Women Square Sunglasses,1495,1495,0.0,20Dresses,Accessories,Unisex
+349,Aviator Sunglasses,3650,7300,0.0,Levis,Accessories,Unisex
+350,Women Cateye Sunglasses,1780,1780,0.0,IRUS by IDEE,Accessories,Unisex
+351,Women Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+352,Textured Block Pump Heels,990,2200,0.0,Mast & Harbour,Footwear - Women,Women
+353,Women Embellished TStrap Flats,3499,3499,0.0,Skechers,Footwear - Women,Women
+354,Women Open Toe Flats,649,999,0.0,WALKWAY by Metro,Footwear - Women,Women
+355,Women Open Toe Flats,584,1299,0.0,Anouk,Footwear - Women,Women
+356,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+357,Textured PU Block Pumps Heels,990,2200,0.0,Mast & Harbour,Footwear - Women,Women
+358,Open Toe Wedges,799,1999,0.0,HASTEN,Footwear - Women,Women
+359,Women Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+360,Open Toe Flatform Heels,899,1999,0.0,HASTEN,Footwear - Women,Women
+361,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+362,Women Open Toe Flats,999,999,0.0,Walkfree,Footwear - Women,Women
+363,Women Striped Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+364,Women Flyknit Running Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+365,Women Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+366,Women Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+367,Women Flyknit Running Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+368,Future Rider Pastel Sneakers,8999,8999,0.0,Puma,Footwear - Unisex,Unisex
+369,Women Striped Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+370,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+371,Women Bow Detail Open Toe Flat,999,2499,0.0,Mast & Harbour,Footwear - Women,Women
+372,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+373,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+374,Textured PU Block Pumps Heels,990,2200,0.0,Mast & Harbour,Footwear - Women,Women
+375,Slim Heeled Pumps,899,1999,0.0,HASTEN,Footwear - Women,Women
+376,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+377,Women Embellished Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+378,Women Textured Open Toe Flats,844,1299,0.0,WALKWAY by Metro,Footwear - Women,Women
+379,Alice V4 Thong Flip Flops,1499,1499,0.0,Puma,Footwear - Women,Women
+380,Cut-Out One Toe Flats,1499,1499,0.0,PEPPER,Footwear - Women,Women
+381,Wedge Sandals with Buckles,1499,1499,0.0,Walkfree,Footwear - Women,Women
+382,Women Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+383,Women Open Toe Flats,974,1499,0.0,WALKWAY by Metro,Footwear - Women,Women
+384,Women Printed Thong Flip-Flops,449,899,0.0,CHUPPS,Footwear - Women,Women
+385,Women Textured One Toe Flats,1199,1199,0.0,Brauch,Footwear - Women,Women
+386,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+387,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+388,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+389,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+390,Women Air Running Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+391,Women Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+392,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+393,Women Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+394,Women Printed Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+395,Women Mesh Running Shoes,1299,1299,0.0,Sparx,Footwear - Women,Women
+396,Women Embellished Sliders,1299,1299,0.0,JUMPLITE,Footwear - Women,Women
+397,Women Printed Thong Flip-Flops,399,499,0.0,CASSIEY,Footwear - Women,Women
+398,Women Printed Slip-On Sneakers,479,1199,0.0,Mast & Harbour,Footwear - Women,Women
+399,Studded T-Strap Flats,1499,1499,0.0,DressBerry,Footwear - Women,Women
+400,Women Ballerinas Flats,2459,5999,0.0,DressBerry,Footwear - Women,Women
+401,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+402,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+403,Women High Rise Knitted Tights,1519,1599,0.0,Sweet Dreams,Women's Bottoms,Women
+404,Women Flyknit Running Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+405,Women Flyknit Running Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+406,Women Skinny Sports Shorts,431,599,0.0,Bralux,Sportswear - Women,Women
+407,Women Cotton Track Pants,696,1699,0.0,Clora Creation,Sportswear - Women,Women
+408,Women Cotton Track Pants,696,1699,0.0,Clora Creation,Sportswear - Women,Women
+409,Bra Solid,519,799,0.0,PLUMBURY,Sportswear - Women,Women
+410,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+411,Women Cotton Track Pants,696,1699,0.0,Clora Creation,Sportswear - Women,Women
+412,Women Cotton Joggers,1999,1999,0.0,KEPA,Sportswear - Women,Women
+413,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+414,Women Pack Of 3 Sports Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+415,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+416,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+417,Maternity Patterned Tights,10999,10999,0.0,ADIDAS,Women's Bottoms,Women
+418,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+419,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+420,Women Air Running Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+421,STELLA MCCARTNEY LOGO T-Shirt,4999,4999,0.0,ADIDAS,Men's T-Shirts,Men
+422,Women Mesh Running Shoes,1299,1299,0.0,Sparx,Footwear - Women,Women
+423,Ankle-Length Gym Tights,9999,9999,0.0,ADIDAS,Women's Bottoms,Women
+424,Women Plus Size Jogger,1999,1999,0.0,KEPA,Sportswear - Women,Women
+425,SPORTSWEAR Sweatshirt,14999,14999,0.0,ADIDAS,Sportswear - Women,Women
+426,Women Dri-FIT Sports Tights,701,1493,0.0,Apraa & Parma,Women's Bottoms,Women
+427,Lightly Padded Sports Bra,454,1299,0.0,INFINIUM,Innerwear & Sleepwear - Women,Women
+428,Women Cotton Track Pants,696,1699,0.0,Clora Creation,Sportswear - Women,Women
+429,Women Mid Rise Knitted Tights,1329,1399,0.0,Sweet Dreams,Women's Bottoms,Women
+430,Women Plus Size Track Pant,1999,1999,0.0,KEPA,Sportswear - Women,Women
+431,Women Pack Of 3 Sports Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+432,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+433,Women STELLA MCCARTNEY Joggers,9599,9599,0.0,ADIDAS,Sportswear - Women,Women
+434,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+435,Women Dri-FIT Sports Tights,701,1493,0.0,Apraa & Parma,Women's Bottoms,Women
+436,Women Cotton Track Pants,696,1699,0.0,Clora Creation,Sportswear - Women,Women
+437,SPORTSWEAR HOODIE Sweatshirts,14999,14999,0.0,ADIDAS,Sportswear - Women,Women
+438,Women Plus Size Track Pants,1999,1999,0.0,KEPA,Sportswear - Women,Women
+439,Women High Rise Knitted Tights,996,1049,0.0,Sweet Dreams,Women's Bottoms,Women
+440,Lightly Padded Sports Bra,2793,2793,0.0,Apraa & Parma,Innerwear & Sleepwear - Women,Women
+441,Women Mid Rise Knitted Tights,1329,1399,0.0,Sweet Dreams,Women's Bottoms,Women
+442,Women Pack Of 3 Sports Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+443,Bra Solid,519,799,0.0,PLUMBURY,Sportswear - Women,Women
+444,Women Flyknit Sports Shoes,1999,1999,0.0,JUMPLITE,Footwear - Women,Women
+445,Pack Of 2 Ankle-Length Socks,239,399,0.0,Balenzia,Sportswear - Women,Women
+446,Women Cotton Track Pants,696,1699,0.0,Clora Creation,Sportswear - Women,Women
+447,Women Skinny Sports Shorts,1093,1093,0.0,Apraa & Parma,Sportswear - Women,Women
+448,SPORTSWEAR Joggers,10999,10999,0.0,ADIDAS,Sportswear - Women,Women
+449,Women Pack Of 3 Yoga Shorts,575,1799,0.0,Jinfo,Women's Bottoms,Women
+450,Unisex Infusion Training Shoes,6999,6999,0.0,Puma,Footwear - Unisex,Unisex
+451,Printed Swimwear Sarong,883,1699,0.0,Claura,Accessories,Unisex
+452,Women Boy Shorts Briefs,375,500,0.0,NOIRA,Innerwear & Sleepwear - Women,Women
+453,Pack Of 12 Hipster Brief,4245,4245,0.0,Fleurt,Innerwear & Sleepwear - Men,Men
+454,Printed Nightdress,799,2664,0.0,MomToBe,Innerwear & Sleepwear - Women,Women
+455,Padded & Wired Lingerie Set,1380,1380,0.0,Soie,Innerwear & Sleepwear - Women,Women
+456,Women Printed Lounge Pants,949,999,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+457,Breast lift strapless pushup,759,1947,0.0,Bellofox,Innerwear & Sleepwear - Women,Women
+458,Women Pack Of 2 Briefs,540,540,0.0,Soie,Innerwear & Sleepwear - Women,Women
+459,Women Cotton Lounge Pants,600,750,0.0,Okane,Innerwear & Sleepwear - Women,Women
+460,Pack Of 8 Hipster Briefs,3295,3295,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+461,Coverage Lightly Padded Bra,940,940,0.0,Soie,Innerwear & Sleepwear - Women,Women
+462,One Shoulder Swim Bodysuit,2550,2550,0.0,Addery,Innerwear & Sleepwear - Women,Women
+463,Women Mid-Rise Lounge Pants,996,1049,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+464,Women Pack Of 6 Hipster Briefs,2495,2495,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+465,Pack of 2 Full Coverage Bra,1693,1693,0.0,Apraa & Parma,Innerwear & Sleepwear - Women,Women
+466,Women Floral Print Night suit,943,2949,0.0,Organzaa,Innerwear & Sleepwear - Women,Women
+467,Halter Neck Baby Doll,2145,2145,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+468,Women Printed Lounge Shorts,590,590,0.0,YOONOY,Innerwear & Sleepwear - Women,Women
+469,Lightly Padded T-shirt Bra,494,899,0.0,PrettyCat,Innerwear & Sleepwear - Women,Women
+470,Baby Doll,1995,1995,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+471,Bra Solid,401,599,0.0,COLOR CAPITAL,Sportswear - Women,Women
+472,Lightly Padded Plunge Bra,701,899,0.0,PrettyCat,Innerwear & Sleepwear - Women,Women
+473,3 Piece Satin Night Suit,2699,2999,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+474,Women Pack Of 2 Hipster Briefs,699,699,0.0,Triumph,Innerwear & Sleepwear - Women,Women
+475,Stick-On Backless Push Up Bra,479,1699,0.0,Hill Islands,Innerwear & Sleepwear - Women,Women
+476,Lightly Padded Bandeau Bra,1092,2100,0.0,NOIRA,Innerwear & Sleepwear - Women,Women
+477,Baby Doll,2245,2245,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+478,Women Slim Fit Lounge Pant,949,999,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+479,Women Pack Of 3 Bikini Briefs,2495,2495,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+480,Women Floral Print Night suit,1423,4449,0.0,Organzaa,Innerwear & Sleepwear - Women,Women
+481,Lightly Padded Bandeau Bra,490,700,0.0,NOIRA,Innerwear & Sleepwear - Women,Women
+482,Halter Neck Baby Doll,1995,1995,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+483,Halter Neck Baby Doll,1995,1995,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+484,Women Lounge Pants,996,1049,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+485,All Day Comfort Everyday Bra,790,790,0.0,Soie,Innerwear & Sleepwear - Women,Women
+486,Checked Pure Cotton Night Suit,1899,1999,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+487,Pack Of 6 Hipster Briefs,2495,2495,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+488,Lightly Padded Bandeau Bra,900,1800,0.0,NOIRA,Innerwear & Sleepwear - Women,Women
+489,Floral Satin Night Suit,1899,3165,0.0,I like me,Innerwear & Sleepwear - Women,Women
+490,Pack Of 10 Hipster Briefs,3645,3645,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+491,Baby Doll,2145,2145,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+492,Women Floral Print Night suit,1183,3699,0.0,Organzaa,Innerwear & Sleepwear - Women,Women
+493,Women Printed Lounge Pants,949,999,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+494,Striped Pure Cotton Night Suit,919,1999,0.0,Claura,Innerwear & Sleepwear - Women,Women
+495,Top With Pyjamas Nightsuit,664,1898,0.0,VIMAL JONNEY,Innerwear & Sleepwear - Women,Women
+496,Women Printed Night Suit,664,1898,0.0,VIMAL JONNEY,Innerwear & Sleepwear - Women,Women
+497,Baby Doll,2295,2295,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+498,Women Pack Of 6 Hipster Briefs,2495,2495,0.0,Fleurt,Innerwear & Sleepwear - Women,Women
+499,Lightly Padded Bandeau Bra,1092,2100,0.0,NOIRA,Innerwear & Sleepwear - Women,Women
+500,Women Mid-Rise Lounge Shorts,854,899,0.0,Sweet Dreams,Innerwear & Sleepwear - Women,Women
+501,Set of 2 Coffee Body Wash,798,798,4.5,MCaffeine,Beauty and Personal Care,Unisex
+502,Born To Glow Highlighter Duo,1499,1499,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+503,Ultimate Eyeshadow Palette,1999,1999,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+504,Set of 2 Coffee Body Wash,798,798,4.5,MCaffeine,Beauty and Personal Care,Unisex
+505,Ultimate Glow Shots Eyeshadow,899,899,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+506,Soft Matte Lip Cream - 10,699,699,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+507,Powder Puff Lippie Cream - 08,749,749,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+508,Soft Matte Lip Cream - 19,699,699,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+509,Micro Brow Pencil - Espresso,875,875,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+510,Born To Glow Highlighter Duo,1499,1499,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+511,4Pcs Nail Art Brushes,1050,1050,0.0,Veoni BELLE,Makeup,Unisex
+512,Ultimate Glow Shots Eyeshadow,899,899,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+513,Day Cream With UV Protection,378,450,0.0,MITVANA,Makeup,Unisex
+514,Lingerie XXL Lipstick - 08,899,899,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+515,Set Of 2 Coffee Shampoo,998,998,4.4,MCaffeine,Unknown,Unknown
+516,Powder Puff Lippie Cream - 07,749,749,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+517,Lingerie XXL Lipstick - 18,899,899,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+518,Ultimate Eyeshadow Palette,1999,1999,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+519,Bright Beauty Foaming Facewash,195,325,0.0,Ponds,Makeup,Unisex
+520,BB Cream With Lip Serum,559,860,0.0,TNW the natural wash,Makeup,Unisex
+521,Body Wash With Body Spray,514,514,0.0,FRENCH ESSENCE,Beauty and Personal Care,Unisex
+522,Revitalizing Night Cream,399,475,0.0,MITVANA,Makeup,Unisex
+523,Soft Matte Lip Cream - 58,650,650,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+524,Set of 2 Cappuccino Body Wash,798,798,4.6,MCaffeine,Beauty and Personal Care,Unisex
+525,Mysore Jasmine Face Mist 100ml,595,595,0.0,Nourish Mantra,Makeup,Unisex
+526,Powder Puff Lippie Cream - 02,749,749,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+527,Soft Matte Lip Cream - 60,650,650,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+528,Lemon Body Wash,399,399,0.0,CRAZY OWL,Beauty and Personal Care,Unisex
+529,Anti-Greying Rice Water Serum,1595,1595,0.0,Nourish Mantra,Makeup,Unisex
+530,Set of 2 Green Tea Body Wash,598,598,3.8,MCaffeine,Beauty and Personal Care,Unisex
+531,Hair Treatment Mask -200gm,770,770,0.0,Mantra Herbal,Makeup,Unisex
+532,BB Cream With Face Serum,689,1060,0.0,TNW the natural wash,Makeup,Unisex
+533,Cherry Blossom Shower Gel,199,199,0.0,Biotique,Beauty and Personal Care,Unisex
+534,Fix The Night Cream 50gm,595,700,0.0,The Co Being,Makeup,Unisex
+535,Activated Charcoal Body Scrub,449,449,0.0,Zeoveda,Makeup,Unisex
+536,The Marshmelllow Primer - 30ml,1499,1499,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+537,Day Cream With UV Protection,671,799,0.0,MITVANA,Makeup,Unisex
+538,Born To Glow Highlighter - 01,850,850,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+539,Set of 2 Coffee Body Scrub,898,898,4.5,MCaffeine,Beauty and Personal Care,Unisex
+540,Correct Contour Concealer,1325,1325,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+541,Cant Stop Wont Stop Compact-04,850,850,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+542,BB Cream With Face Serum,585,900,0.0,TNW the natural wash,Makeup,Unisex
+543,Butter Lip Gloss 8ml,550,550,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+544,Lingerie XXL Lipstick - 23,899,899,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+545,Body Wash With Body Spray,514,514,0.0,FRENCH ESSENCE,Beauty and Personal Care,Unisex
+546,BB Cream & Green Tea Face Wash,477,735,0.0,TNW the natural wash,Makeup,Unisex
+547,Set Of 2 Green Tea Face Serum,1198,1198,4.6,MCaffeine,Makeup,Unisex
+548,Lingerie XXL Lipstick - 21,899,899,0.0,NYX PROFESSIONAL MAKEUP,Makeup,Unisex
+549,Rose N Roses Shower Gel,199,199,0.0,Biotique,Beauty and Personal Care,Unisex
+550,Set Of 2 BHA Toner-Serum,898,898,4.4,MCaffeine,Makeup,Unisex
+551,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+552,Backpack with Rain Cover,999,3999,0.0,Roadster,Bags,Unisex
+553,Laptop Backpack,1609,2299,0.0,Teakwood Leathers,Bags,Unisex
+554,Backpack with Rain Cover,999,3999,0.0,Roadster,Bags,Unisex
+555,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+556,Geometric Backpack,799,1999,0.0,gaura pakhi,Bags,Unisex
+557,Laptop Backpack,1399,1999,0.0,Teakwood Leathers,Bags,Unisex
+558,Geometric Backpack,799,1999,0.0,gaura pakhi,Bags,Unisex
+559,Laptop Backpack,1049,1499,0.0,Teakwood Leathers,Bags,Unisex
+560,Geometric Backpack,799,1999,0.0,gaura pakhi,Bags,Unisex
+561,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+562,Backpack with Rain Cover,999,3999,0.0,Roadster,Bags,Unisex
+563,Geometric Backpack,799,1999,0.0,gaura pakhi,Bags,Unisex
+564,Laptop Backpack,1049,1499,0.0,Teakwood Leathers,Bags,Unisex
+565,Backpack with Rain Cover,999,3999,0.0,Roadster,Bags,Unisex
+566,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+567,Laptop Backpack,1399,1999,0.0,Teakwood Leathers,Bags,Unisex
+568,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+569,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+570,Laptop Backpack,1399,1999,0.0,Teakwood Leathers,Bags,Unisex
+571,Laptop Backpack,1399,1999,0.0,Teakwood Leathers,Bags,Unisex
+572,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+573,Printed Laptop Backpack,999,3999,0.0,Roadster,Bags,Unisex
+574,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+575,Backpack with Rain Cover,999,3999,0.0,Roadster,Bags,Unisex
+576,Geometric Backpack,799,1999,0.0,gaura pakhi,Bags,Unisex
+577,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+578,Laptop Backpack,1049,1499,0.0,Teakwood Leathers,Bags,Unisex
+579,Unisex Colourblocked Backpack,2474,4499,0.0,Tommy Hilfiger,Bags,Unisex
+580,Laptop Backpack,1399,1999,0.0,Teakwood Leathers,Bags,Unisex
+581,Laptop Backpack,1399,1999,0.0,Teakwood Leathers,Bags,Unisex
+582,Backpack with Reflective Strip,999,3999,0.0,WROGN,Bags,Unisex
+583,Women Leather Graphic Backpack,4599,4599,0.0,Caprese,Bags,Unisex
+584,Brand Logo Backpack,11399,18999,0.0,MANDARINA DUCK,Bags,Unisex
+585,Backpack & Free Flow Organizer,3473,6680,0.0,SWISS MILITARY,Bags,Unisex
+586,Backpack & Free Flow Organizer,3406,6680,0.0,SWISS MILITARY,Bags,Unisex
+587,Brand Logo Backpack with USB Charging Port,1139,3799,0.0,WROGN,Bags,Unisex
+588,Women Medium Size Backpack,9999,19999,0.0,MANDARINA DUCK,Bags,Unisex
+589,Unisex Dura Base CV2 Backpack,1349,2699,0.0,Puma,Bags,Unisex
+590,Backpack with USB Charging Port,1599,2999,0.0,NOVEX,Bags,Unisex
+591,Unisex Big Cat Laptop Backpack,1049,2099,0.0,Puma,Bags,Unisex
+592,Women Leather Small Backpack,3299,3299,0.0,Caprese,Bags,Unisex
+593,Duffel BackPack With Organizer,1987,3680,0.0,SWISS MILITARY,Bags,Unisex
+594,Women Small Size Backpack,10199,16999,0.0,MANDARINA DUCK,Bags,Unisex
+595,Unisex Brand Logo Backpack,4299,4299,0.0,VIP,Bags,Unisex
+596,Unisex Zipper Laptop Backpack,1349,2699,0.0,Puma,Bags,Unisex
+597,Backpack With Earphone Gate,699,699,0.0,THE CLOWNFISH,Bags,Unisex
+598,Backpack with USB Charging Port,1599,2999,0.0,NOVEX,Bags,Unisex
+599,Small Size Backpack,8499,16999,0.0,MANDARINA DUCK,Bags,Unisex
+600,Women Printed Backpack,699,1200,0.0,DN Creation,Bags,Unisex
+601,24KT Gold Bar- 5 g,33273,36970,4.9,BANGALORE REFINERY,Gold,Unisex
+602,Floral 24KT Gold Bar- 5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+603,24KT Gold Coin-5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+604,24KT Gold Coin Bar-1 g,6860,7623,4.9,BANGALORE REFINERY,Gold,Unisex
+605,Swastik 24KT Gold Coin-5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+606,24KT Gold Coin- 5 g,33426,37140,0.0,BANGALORE REFINERY,Gold,Unisex
+607,24KT Gold Coin- 5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+608,24KT Gold Coin- 5 g,33426,37140,0.0,BANGALORE REFINERY,Gold,Unisex
+609,Floral 24KT Gold Bar- 5 gram,33181,36868,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+610,Floral 24KT Gold Bar- 2 gram,13297,14775,5.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+611,24KT Gold Coin-2 gram,13297,14775,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+612,Gold-Plated Kundan  Stone-Studded Choker Necklace Set,7999,7999,4.5,ANIKAS CREATION,Jewelry,Unisex
+613,24KT Gold Coin- 2 g,13526,15029,0.0,BANGALORE REFINERY,Gold,Unisex
+614,Floral 24KT Gold Bar-1 gram,6764,7516,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+615,Floral 24KT Gold Bar-2 gram,13261,14735,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+616,Silver-Plated American Diamond & Cubic Zirconia Studded Handcrafted Jewellery Set,1558,7793,4.1,KARATCART,Jewelry,Unisex
+617,24KT Gold Lakshmi Coin-5 g,33006,37938,0.0,MELORRA,Gold,Unisex
+618,Rose Gold-Plated Jewellery Set,3646,10725,4.0,Rubans,Jewelry,Unisex
+619,24KT Gold Coin-5 g,33426,37140,0.0,BANGALORE REFINERY,Gold,Unisex
+620,Gold-Plated Jewellery Set,2352,7130,4.4,Priyaasi,Jewelry,Unisex
+621,24KT Gold Coin-4 gram,26361,29290,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+622,Women CZ Temple Jewellery Set,1350,4500,4.4,Rubans,Jewelry,Unisex
+623,Gold-Plated Stone Studded  Jewellery Set,655,3450,4.4,Zaveri Pearls,Jewelry,Unisex
+624,Gold-Plated Jewellery Set,833,3625,4.2,Rubans,Jewelry,Unisex
+625,Gold-Plated Chandbali Earrings,760,3620,4.1,Rubans,Jewelry,Unisex
+626,Women Bangle-Style Bracelet,514,1659,4.5,Jewels Galaxy,Jewelry,Unisex
+627,Gold-Plated Ruby-Studded Jewellery Set,1364,4549,4.4,Priyaasi,Jewelry,Unisex
+628,Gold-Plated Temple Jewellery Set,3366,9900,4.2,Rubans,Jewelry,Unisex
+629,24KT Gold Coin-0.5 g,3635,4039,5.0,BANGALORE REFINERY,Gold,Unisex
+630,24KT Gold Coin-2 gram,13202,15175,0.0,MELORRA,Gold,Unisex
+631,Gold-Toned Jewellery Set,531,2796,4.2,Zaveri Pearls,Jewelry,Unisex
+632,Rose Gold-Plated AD-Studded Jewellery Set,1174,4895,4.5,Saraf RS Jewellery,Jewelry,Unisex
+633,24KT Gold Coin- 1 g,6867,7631,0.0,BANGALORE REFINERY,Gold,Unisex
+634,24KT Gold Coin-1 g,6867,7631,0.0,BANGALORE REFINERY,Gold,Unisex
+635,Silver-Plated AD-Studded Jewellery Set,3600,12000,4.8,Rubans,Jewelry,Unisex
+636,24KT Gold Coin-2 gram,13297,14775,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+637,24KT Gold Pendant- 2 gm,13445,14304,0.0,MELORRA,Gold,Unisex
+638,Gold-Plated Red & Green Stone-Studded Temple Jewellery-Set,2080,8000,4.3,Rubans,Jewelry,Unisex
+639,Set Of 20 Earrings,319,1995,4.4,AMI,Jewelry,Unisex
+640,24KT Gold Coin-1 gram,6764,7516,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+641,Women Jewellery Set,282,1663,4.0,Zaveri Pearls,Jewelry,Unisex
+642,Pack of 3 Contemporary Studs,353,2079,4.4,Zaveri Pearls,Jewelry,Unisex
+643,22K Gold-Plated Ruby & Stone-Studded Beaded Handcrafted Jewellery Set,1780,8900,4.3,Rubans,Jewelry,Unisex
+644,Silver-Plated American Diamond Studded Handcrafted Jewellery Set,1264,6657,4.4,Yellow Chimes,Jewelry,Unisex
+645,Handcrafted Jewellery Set,1264,6657,4.4,Yellow Chimes,Jewelry,Unisex
+646,24KT Gold Coin-1gram,6764,7516,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+647,Gold-Plated CZ Stone-Studded Jewellery Set,1161,3747,4.3,PANASH,Jewelry,Unisex
+648,Meenakari Choker Jewellery Set,1574,5249,3.7,PANASH,Jewelry,Unisex
+649,Gold-Plated Necklace Set,2240,7000,4.5,Rubans,Jewelry,Unisex
+650,Rhodium-Plated AD-Studded Jewellery Set,1263,4680,4.3,Yellow Chimes,Jewelry,Unisex
+651,Men Kurta with Pyjamas,1949,6499,3.9,SOJANYA,Ethnic Wear - Men,Men
+652,Men Embellished Cotton Kurta,1633,4299,4.2,Jompers,Ethnic Wear - Men,Men
+653,Men Kurta with Pyjamas,1949,6499,3.9,SOJANYA,Ethnic Wear - Men,Men
+654,Men Embroidered Kurta with Churidar,1709,4499,4.1,Jompers,Ethnic Wear - Men,Men
+655,Men Solid Kurta with Churidar,4139,9199,4.0,KISAH,Ethnic Wear - Men,Men
+656,Men Floral Embroidered Kurta,1633,4299,4.2,Jompers,Ethnic Wear - Men,Men
+657,Men Ethnic Motifs Cotton Kurta,1633,4299,4.2,Jompers,Ethnic Wear - Men,Men
+658,Men Embroidered Kurta with Churidar,1709,4499,4.3,Jompers,Ethnic Wear - Men,Men
+659,Men Embellished Kurta,1633,4299,4.4,Jompers,Ethnic Wear - Men,Men
+660,Printed Straight Kurta,930,1899,4.1,Jompers,Ethnic Wear - Women,Women
+661,Men Ethnic Motifs Cotton Kurta,1633,4299,4.3,Jompers,Ethnic Wear - Men,Men
+662,Cotton Printed Kurta Set,1399,3499,4.0,See Designs,Ethnic Wear - Men,Men
+663,Embroidered Kurta & Churidar,1149,2499,4.2,Jompers,Ethnic Wear - Men,Men
+664,Men Ethnic Motifs Printed Kurta,944,2099,4.2,Anouk,Ethnic Wear - Men,Men
+665,Men Kurta with Pyjamas,3430,7299,4.0,KISAH,Ethnic Wear - Men,Men
+666,Solid Kurta with Pyjamas,3853,8199,4.0,KISAH,Ethnic Wear - Men,Men
+667,Men Printed Kurta with Churidar,3869,8599,4.1,KISAH,Ethnic Wear - Men,Men
+668,Men Embroidered Kurta with Pyjamas,1709,4499,4.3,Jompers,Ethnic Wear - Men,Men
+669,Men Solid Kurta Set,1979,5999,3.9,SOJANYA,Ethnic Wear - Men,Men
+670,Men Printed Kurta Set,4463,9299,3.9,KISAH,Ethnic Wear - Men,Men
+671,Men Kurta with Pyjamas,1949,6499,3.9,SOJANYA,Ethnic Wear - Men,Men
+672,Men Kurta with Churidar,1949,6499,4.0,SOJANYA,Ethnic Wear - Men,Men
+673,Men Woven Design Sherwani,5718,13299,4.1,KISAH,Ethnic Wear - Men,Men
+674,Men Solid Pyjamas,558,1299,4.2,See Designs,Unknown,Unknown
+675,Men Solid Kurta Set,1677,5590,3.9,DEYANN,Ethnic Wear - Men,Men
+676,Men Mirror Work 3-Pcs Sherwani Set,5524,8499,4.4,SHRESTHA BY VASTRAMAY,Ethnic Wear - Men,Men
+677,Men Pure Cotton Kurta Set,1119,3199,4.2,Anouk,Ethnic Wear - Men,Men
+678,Printed Straight Kurta,991,3199,4.1,SOJANYA,Ethnic Wear - Women,Women
+679,Chikankari Pure Cotton Kurta,1719,4299,4.4,Jompers,Ethnic Wear - Men,Men
+680,Men Geometric Printed Kurta,734,2099,4.3,Anouk,Ethnic Wear - Men,Men
+681,Men Printed Kurta with Trousers,2309,4199,3.5,Anouk,Ethnic Wear - Men,Men
+682,Men Solid Kurta with Churidar,1677,5590,4.0,DEYANN,Ethnic Wear - Men,Men
+683,Men Printed Kurta with Trousers,1759,3199,4.3,Anouk,Ethnic Wear - Men,Men
+684,Men Floral Embroidered Kurta,923,2099,3.7,Jompers,Ethnic Wear - Men,Men
+685,Jashn Bandhgala Blazer,9999,9999,0.0,House of Pataudi,Blazers - Men,Men
+686,Men Ethnic Motifs Cotton Kurta,1633,4299,4.2,Jompers,Ethnic Wear - Men,Men
+687,Woven Design Straight Kurta,917,1799,4.1,Jompers,Ethnic Wear - Men,Men
+688,Men Embroidered Straight Kurta,917,2699,4.2,Jompers,Ethnic Wear - Men,Men
+689,Men Printed Kurta,809,1799,3.9,Anouk,Ethnic Wear - Men,Men
+690,Men Printed Sherwani Set,5498,14099,3.8,KISAH,Ethnic Wear - Men,Men
+691,Ethnic Bandhgala Jashn Blazer,9999,9999,0.0,House of Pataudi,Blazers - Men,Men
+692,Men Printed Kurta with Trousers,1924,3499,3.9,Anouk,Ethnic Wear - Men,Men
+693,Men Embroidered Kurta,917,2699,4.3,Jompers,Ethnic Wear - Men,Men
+694,Men Pure Cotton Printed Kurta,494,1099,4.1,Anouk,Ethnic Wear - Men,Men
+695,Floral Kurta Set Nehru Jacket,1971,6799,4.1,SOJANYA,Ethnic Wear - Men,Men
+696,Men Kurta Set & Nehru Jacket,1747,6989,3.9,SOJANYA,Ethnic Wear - Men,Men
+697,Men Solid Cotton Pyjamas,493,1299,4.2,VASTRAMAY,Unknown,Unknown
+698,Chikankari Pure Cotton Kurta,1719,4299,4.4,Jompers,Ethnic Wear - Men,Men
+699,Pure Cotton Pathani Kurta Set,1499,4999,4.2,Molly & Michel,Ethnic Wear - Men,Men
+700,Men Kurta Sets,2039,5099,3.9,Anouk,Ethnic Wear - Men,Men
+701,Men Skinny Fit Jeans,499,1999,3.6,Roadster,Men's Bottoms,Men
+702,Men Black Regular Jeans,1799,1799,4.3,H&M,Men's Bottoms,Men
+703,Men Skinny Fit Jeans,599,1499,3.8,Roadster,Men's Bottoms,Men
+704,Men 512 Tapered Fit Jeans,1599,3199,4.0,Levis,Men's Bottoms,Men
+705,Men 512 Tapered Fit Jeans,1449,2899,4.3,Levis,Men's Bottoms,Men
+706,Men Slim Fit Jeans,824,1499,3.8,Roadster,Men's Bottoms,Men
+707,Men Slim Fit Jeans,2799,2799,3.5,WROGN,Men's Bottoms,Men
+708,Men Skinny Fit Jeans,599,1499,3.9,Roadster,Men's Bottoms,Men
+709,Men 512 Slim Tapered Fit Jeans,1599,3199,4.2,Levis,Men's Bottoms,Men
+710,Men Regular Fit Track pants,573,1399,4.0,HRX by Hrithik Roshan,Men's Bottoms,Men
+711,Men Blue Regular Jeans,1799,1799,4.4,H&M,Men's Bottoms,Men
+712,Men 512 Tapered Fit Jeans,1599,3199,4.2,Levis,Men's Bottoms,Men
+713,Men Slim Fit Jeans,599,1499,3.8,Roadster,Men's Bottoms,Men
+714,Men 512 Tapered Fit Jeans,1599,3199,4.2,Levis,Men's Bottoms,Men
+715,Men Slim Fit Jeans,1699,1699,3.5,Roadster,Men's Bottoms,Men
+716,Men Tapered Fit Jeans,857,1649,3.8,HIGHLANDER,Men's Bottoms,Men
+717,Men Black Slim Jeans,1799,1799,4.4,H&M,Men's Bottoms,Men
+718,Men Slim Fit Joggers Trousers,820,1549,3.7,HIGHLANDER,Men's Bottoms,Men
+719,Men Tapered Fit Jeans,753,1299,3.9,HIGHLANDER,Men's Bottoms,Men
+720,Men Cotton Joggers,1079,2399,3.7,Roadster,Men's Bottoms,Men
+721,Men Slim Fit Jeans,1449,2899,4.3,Levis,Men's Bottoms,Men
+722,Men Tapered Fit Chinos,1208,1549,4.0,HIGHLANDER,Men's Bottoms,Men
+723,Men 512 Slim Low-Rise Jeans,2239,3199,4.1,Levis,Men's Bottoms,Men
+724,Men 511 Slim Fit Jeans,1599,3199,4.3,Levis,Men's Bottoms,Men
+725,Men Slim Fit Jeans,714,1299,3.6,Roadster,Men's Bottoms,Men
+726,Men Slim Fit Jeans,755,1399,3.9,Urbano Fashion,Men's Bottoms,Men
+727,Men Skinny Fit Jeans,764,1699,3.9,Roadster,Men's Bottoms,Men
+728,Men Mid-Rise Slim Fit Cargos,1045,3449,0.0,HIGHLANDER,Men's Bottoms,Men
+729,Men Cotton Loose Jeans,1999,1999,4.2,H&M,Men's Bottoms,Men
+730,Men Slim Fit Formal Trousers,2379,2799,4.4,Louis Philippe,Men's Bottoms,Men
+731,Men Tapered Fit Jeans,714,1299,3.8,HIGHLANDER,Men's Bottoms,Men
+732,Men Regular Fit Track Pants,1079,2699,4.1,Puma,Men's Bottoms,Men
+733,Men Ripstop Cargo Trousers,2699,2699,4.5,H&M,Men's Bottoms,Men
+734,Men Solid Slim-Fit Track Pants,557,899,4.0,HIGHLANDER,Men's Bottoms,Men
+735,Men Solid Regular Fit Joggers,1759,2199,4.1,WROGN ACTIVE,Men's Bottoms,Men
+736,Men Formal Trousers,2099,2099,4.3,Park Avenue,Men's Bottoms,Men
+737,Men 512 Slim Tapered Fit Jeans,1599,3199,4.2,Levis,Men's Bottoms,Men
+738,Men 511 Slim Fit Jeans,1599,3199,4.2,Levis,Men's Bottoms,Men
+739,Men Solid Cargo Trousers,1299,2599,3.9,Roadster,Men's Bottoms,Men
+740,Men 512 Tapered Fit Jeans,1599,3199,4.2,Levis,Men's Bottoms,Men
+741,Solid Straight Fit Trousers,1167,2595,4.3,Nike,Men's Bottoms,Men
+742,Men Tapered Fit Chinos,1115,1549,3.9,HIGHLANDER,Men's Bottoms,Men
+743,Men Bio-Wash Joggers,563,1199,4.0,HRX by Hrithik Roshan,Men's Bottoms,Men
+744,Men Slim Fit Formal Trousers,2379,2799,4.3,Louis Philippe,Men's Bottoms,Men
+745,Men 511 Slim Fit Jeans,1599,3199,4.3,Levis,Men's Bottoms,Men
+746,Men NK DRY RUN Track Pant,1816,2795,3.9,Nike,Men's Bottoms,Men
+747,Men Slim Fit Jeans,1449,2899,4.2,Levis,Men's Bottoms,Men
+748,Men 512 Tapered Fit Jeans,1449,2899,4.3,Levis,Men's Bottoms,Men
+749,Men Tapered Fit Jeans,698,1449,3.5,HIGHLANDER,Men's Bottoms,Men
+750,Men Ankle Length Chinos,1115,1549,3.9,HIGHLANDER,Men's Bottoms,Men
+751,Men Pack of 2 Basic Briefs,398,398,4.4,Jockey,Innerwear & Sleepwear - Men,Men
+752,Men Pack Of 5 Assorted Above Ankle-Length Socks,543,799,4.4,Levis,Innerwear & Sleepwear - Men,Men
+753,Men 3 Ankle-Length Socks,391,399,4.5,ADIDAS,Innerwear & Sleepwear - Men,Men
+754,Men Printed Lounge Shorts,454,1299,4.1,The Indian Garage Co,Innerwear & Sleepwear - Men,Men
+755,Pack of 2 Pure Cotton Briefs,410,410,4.2,Levis,Innerwear & Sleepwear - Men,Men
+756,Men Solid Pyjamas,558,1299,4.2,See Designs,Unknown,Unknown
+758,Men Pack Of 2 Trunks,538,538,4.4,Jockey,Innerwear & Sleepwear - Men,Men
+759,Men Pure Cotton Boxers,798,798,3.9,Jockey,Innerwear & Sleepwear - Men,Men
+760,Men Solid Lounge Shorts,749,749,4.3,Jockey,Innerwear & Sleepwear - Men,Men
+761,Pack of 3 Cotton Boxers,629,1799,4.1,Roadster,Innerwear & Sleepwear - Men,Men
+762,Lifestyle Throwback Briefs,224,499,4.3,HRX by Hrithik Roshan,Innerwear & Sleepwear - Men,Men
+763,Lifestyle Throwback Briefs,297,849,4.2,HRX by Hrithik Roshan,Innerwear & Sleepwear - Men,Men
+765,Men Pure Cotton Lounge Pants,1149,1149,4.4,U.S. Polo Assn.,Innerwear & Sleepwear - Men,Men
+766,Pack Of 2 Solid Trunk,1839,2299,4.3,Calvin Klein Underwear,Innerwear & Sleepwear - Men,Men
+767,Men Solid Cotton Pyjamas,493,1299,4.2,VASTRAMAY,Unknown,Unknown
+768,Men Running Socks,249,499,4.3,HRX,Innerwear & Sleepwear - Men,Men
+769,Men Pack of 3 Easy Tuck Vest,657,657,4.5,Jockey,Innerwear & Sleepwear - Men,Men
+770,Men Sustainable T-shirt Relaxed Fit,799,799,4.3,H&M,Men's T-Shirts,Men
+771,Men Ultra Soft Trunks,399,399,4.3,Jockey,Innerwear & Sleepwear - Men,Men
+772,Men Solid Relaxed Fit Cotton Pyjamas,493,1299,4.0,VASTRAMAY,Innerwear & Sleepwear - Men,Men
+773,Men Pack of 2 Boxer Briefs,548,548,4.5,Jockey,Innerwear & Sleepwear - Men,Men
+774,Pack of 6 Ankle-Length Socks,628,998,4.3,Levis,Innerwear & Sleepwear - Men,Men
+775,Pack of 3 Low-Cut Socks,527,549,4.5,ADIDAS,Innerwear & Sleepwear - Men,Men
+776,Men Pack Of 5 Assorted Ankle-Length Socks,303,799,4.3,KOPNHAGN,Innerwear & Sleepwear - Men,Men
+777,Men Pack Of 3 Solid Trunks,742,807,4.3,XYXX,Innerwear & Sleepwear - Men,Men
+778,Men Solid Lounge Shorts,749,749,4.1,Jockey,Innerwear & Sleepwear - Men,Men
+779,Solid Cotton Lounge Pants,1149,1149,4.3,U.S. Polo Assn.,Innerwear & Sleepwear - Men,Men
+780,Men Pack Of 5 Socks,549,1099,4.2,One8,Innerwear & Sleepwear - Men,Men
+781,Men Checked Lounge Shorts,454,1299,4.2,The Indian Garage Co,Innerwear & Sleepwear - Men,Men
+782,Assorted Set of 2 Boxers,998,998,4.3,Jockey,Innerwear & Sleepwear - Men,Men
+783,Men Pure Cotton Lounge Pants,1149,1149,4.4,U.S. Polo Assn.,Innerwear & Sleepwear - Men,Men
+784,Men Cotton Innerwear Vest,349,349,4.6,Jockey,Innerwear & Sleepwear - Men,Men
+785,Pack Of 2 Deo-Soft Trunk,1179,1179,4.4,DAMENSCH,Innerwear & Sleepwear - Men,Men
+786,Men Pack Of 2 Basic Briefs,398,398,4.4,Jockey,Innerwear & Sleepwear - Men,Men
+787,Men Training Socks,284,749,4.4,HRX by Hrithik Roshan,Innerwear & Sleepwear - Men,Men
+788,Men Solid Super Combed Cotton Basic Briefs,209,209,4.4,Jockey,Innerwear & Sleepwear - Men,Men
+789,Men Printed Lounge Shorts,454,1299,4.4,The Indian Garage Co,Innerwear & Sleepwear - Men,Men
+790,White Solid Sustainable T-shirt Loose Fit,799,799,4.2,H&M,Men's T-Shirts,Men
+791,V-Neck T-shirt Regular Fit,499,499,3.8,H&M,Men's T-Shirts,Men
+792,Men Solid Trunks,369,369,4.3,U.S. Polo Assn.,Innerwear & Sleepwear - Men,Men
+793,Men Polo Collar Lounge T-shirt,719,1199,4.4,Jack & Jones,Innerwear & Sleepwear - Men,Men
+794,Pack of 3 Innerwear Vests,697,697,4.4,U.S. Polo Assn.,Innerwear & Sleepwear - Men,Men
+795,Pack of 3 Patterned Socks,484,499,4.4,ADIDAS,Innerwear & Sleepwear - Men,Men
+796,Men Pack Of 2 Super Combed Cotton Lounge Pants,1294,1598,4.3,XYXX,Innerwear & Sleepwear - Men,Men
+797,Men Set of 3 Shoeliners,224,499,4.4,Mast & Harbour,Innerwear & Sleepwear - Men,Men
+798,Pack Of 3 Solid Briefs,687,747,4.2,XYXX,Innerwear & Sleepwear - Men,Men
+799,Men Pack Of 2 Lounge T-shirts,996,1049,4.4,U.S. Polo Assn.,Innerwear & Sleepwear - Men,Men
+800,Pure Cotton Lounge T-shirt,901,949,4.0,U.S. Polo Assn.,Innerwear & Sleepwear - Men,Men
+801,Unisex Zig Kinetica 2.5 Run,5999,11999,4.1,Reebok,Footwear - Men,Men
+802,Men Runway Running Shoes,2279,3799,4.2,Reebok,Footwear - Men,Men
+803,Men School Sport 2.0 M Running,2159,3599,4.2,Reebok,Footwear - Men,Men
+804,Men Force Runner Running Shoes,2999,4999,4.6,Reebok,Footwear - Men,Men
+805,Unisex Royal Bb4590 Basketball,3959,6599,0.0,Reebok,Footwear - Unisex,Unisex
+806,Men Nanoflex TR Training Shoes,5159,8599,0.0,Reebok,Footwear - Unisex,Unisex
+807,Men Force Runner Running Shoes,2999,4999,3.6,Reebok,Footwear - Men,Men
+808,Men Z Metro Edge Running Shoes,2579,4299,4.3,Reebok,Footwear - Men,Men
+809,Men Zig Dynamica 3.0 Run Shoes,4499,8999,4.4,Reebok,Footwear - Men,Men
+810,Men Classic Leather Run Shoes,4799,7999,0.0,Reebok,Footwear - Men,Men
+811,Men Zig Dynamica 4 Running,5159,8599,0.0,Reebok,Footwear - Men,Men
+812,Men Hydra Walk 2.0 Shoes,1979,3299,4.3,Reebok,Footwear - Men,Men
+813,Plus Size Cotton Printed Shirt,1259,2799,4.3,Sztori,Men's Shirts,Men
+814,Men Comfort Wonderer Walk Shoe,2279,3799,3.8,Reebok,Footwear - Men,Men
+815,Men Runway M Running Shoes,2279,3799,4.9,Reebok,Footwear - Men,Men
+816,Cotton Chambray Shirt,1484,3299,4.6,Sztori,Men's Shirts,Men
+817,Men NFX Trainer Gym Shoes,4559,7599,0.0,Reebok,Footwear - Men,Men
+818,Plus Size Colourblocked Polo Collar T-shirt,999,1799,4.3,Sztori,Men's T-Shirts,Men
+819,Men Colourblocked Polo Collar T-shirt,849,1699,4.3,Sztori,Men's T-Shirts,Men
+820,Plus Size Men Printed Casual Shirt,1349,2999,4.3,Sztori,Men's T-Shirts,Men
+821,Plus Size Polo Collar T-shirt,999,1999,4.5,Sztori,Men's T-Shirts,Men
+822,Plus Size Printed Cotton Shirt,1259,2799,4.3,Sztori,Men's Shirts,Men
+823,Men Plus Size Tapered Jeans,1259,2799,4.5,Sztori,Men's Bottoms,Men
+824,Workout Ready Track Suit,3599,5999,4.3,Reebok,Unknown,Unknown
+825,90s Runner Reinvented Shoes,2364,4299,4.2,Reebok,Footwear - Men,Men
+826,Men Plus Size Cotton Jeans,1900,3800,0.0,plusS,Men's Bottoms,Men
+827,Men Nanoflex TR 2.0 Training,5159,8599,0.0,Reebok,Footwear - Men,Men
+828,Plus Size Cotton Printed Shirt,1214,2699,4.1,Sztori,Men's Shirts,Men
+829,Men NFX Trainer Gym Shoes,4559,7599,0.0,Reebok,Footwear - Men,Men
+830,Plus Size Printed Polo Collar T-shirt,999,1999,4.1,Sztori,Unknown,Unknown
+831,Plus Size Tapered Fit Jeans,1119,2799,3.6,Sztori,Men's Bottoms,Men
+832,Men Energen Plus 2 Running,4559,7599,0.0,Reebok,Footwear - Men,Men
+833,Plus Size Casual Shirt,999,1999,4.1,Instafab Plus,Unknown,Unknown
+834,Plus Size Pure Cotton T-shirt,1099,1999,4.5,Sztori,Men's T-Shirts,Men
+835,Men Plus Size Tapered Jeans,839,2799,4.5,Sztori,Men's Bottoms,Men
+836,Plus Size Classic Casual Shirt,1287,2799,0.0,Sztori,Men's Shirts,Men
+837,Plus Size Opaque Casual Shirt,1429,2599,4.7,Sztori,Men's Shirts,Men
+838,Logo Printed Speedwick T-shirt,1279,1599,0.0,Reebok,Men's T-Shirts,Men
+839,Men Plus Size Jeans,839,2799,4.3,Sztori,Men's Bottoms,Men
+840,Men Plus Size Jeans,839,2799,4.3,Sztori,Men's Bottoms,Men
+841,Plus Size men trackpants,791,1799,4.3,bigbanana,Men's Bottoms,Men
+842,Men Plus Size T-shirt,584,1299,4.5,Sztori,Men's T-Shirts,Men
+843,Men Self Design Set Sherwani,3730,9099,3.7,KISAH PLUS,Unknown,Unknown
+844,Plus Size Polo Collar T-shirt,989,1799,0.0,Sztori,Men's T-Shirts,Men
+845,Men Running Speedwick Tights,2699,3599,4.4,Reebok,Men's T-Shirts,Men
+847,Unisex CL Legacy AZ Running,4799,7999,0.0,Reebok,Footwear - Men,Men
+848,Men Polo Collar Slim Fit T-shirt,1439,1799,4.2,Reebok,Men's T-Shirts,Men
+849,Men Woven Edge Runner Shoes,2949,4999,2.4,Reebok,Footwear - Men,Men
+850,Men Comfort Wonderer Walk Shoe,2089,3799,0.0,Reebok,Footwear - Men,Men
+851,Intense Repair Conditioner,178,210,4.5,Dove,Beauty and Personal Care,Unisex
+852,UltraSheer Dry Touch Sunblock,573,675,4.6,Neutrogena,Beauty and Personal Care,Unisex
+853,Daily Shine Shampoo - 340ml,258,345,4.5,Dove,Beauty and Personal Care,Unisex
+854,Hair Fall Rescue Conditioner,178,210,4.5,Dove,Beauty and Personal Care,Unisex
+855,Hair Fall Rescue Shampoo,258,345,4.4,Dove,Beauty and Personal Care,Unisex
+856,Unisex Hair Conditioner 175 ml,148,229,4.5,LOreal,Beauty and Personal Care,Unisex
+857,SPF 50 PA++++ Sunscreen,379,399,4.5,Minimalist,Beauty and Personal Care,Unisex
+858,Soft Cream Moisturizer 200 ml,180,329,4.6,Nivea,Beauty and Personal Care,Unisex
+859,Soft Light Moisturizer,126,195,4.5,Nivea,Beauty and Personal Care,Unisex
+860,Dryness Care Conditioner,178,210,4.5,Dove,Beauty and Personal Care,Unisex
+861,Set Of Shampoo & Conditioner,248,428,4.5,LOreal,Beauty and Personal Care,Unisex
+862,Pre Shave Foam 418g,211,249,4.6,Gillette,Beauty and Personal Care,Unisex
+863,Ultra Sheer Sunblock 30 ml,234,260,4.4,Neutrogena,Beauty and Personal Care,Unisex
+864,SPF 15 Body Lotion 200 ml,179,299,4.4,Nivea,Beauty and Personal Care,Unisex
+865,Set of 4 Perfume - 20ml each,560,849,4.5,Bella Vita Organic,Beauty and Personal Care,Unisex
+866,Gentle Skin Cleanser - 125 ml,333,333,4.5,Cetaphil,Beauty and Personal Care,Unisex
+867,Vitamin C Face Wash 100 ml,238,259,4.4,Mamaearth,Beauty and Personal Care,Unisex
+868,BT3101/15 Beard Trimmer,1106,1495,4.3,Philips,Beauty and Personal Care,Unisex
+869,Moisturising Cream - 80 g,508,508,4.6,Cetaphil,Beauty and Personal Care,Unisex
+870,Set of 2 Soft Moisturiser,273,390,4.5,Nivea,Beauty and Personal Care,Unisex
+871,10% Niacinamide Face Serum,569,599,4.5,Minimalist,Beauty and Personal Care,Unisex
+872,Advanced Hair Growth Serum,807,850,4.6,Pilgrim,Beauty and Personal Care,Unisex
+873,Non-Sticky Hair Oil 500 ml,172,215,4.5,Parachute,Beauty and Personal Care,Unisex
+874,SPF 15 Body Lotion - 400 ml,384,519,4.5,Nivea,Beauty and Personal Care,Unisex
+875,Hair Straightening Brush,3696,4995,4.2,Philips,Beauty and Personal Care,Unisex
+876,Set of 2 Nourishing Body Milk,138,198,4.5,Nivea,Beauty and Personal Care,Unisex
+877,Set of 3 Sensitive Roll-Ons,410,747,4.6,Nivea,Beauty and Personal Care,Unisex
+878,Sunscreen Lotion SPF 50+,295,410,4.4,Biotique,Beauty and Personal Care,Unisex
+879,Men Scent Xtremo EDP 100 ml,325,650,4.3,Fogg,Beauty and Personal Care,Unisex
+880,Radiance+ Dewy Sunscreen 50g,371,399,4.5,Aqualogica,Beauty and Personal Care,Unisex
+881,Vitamin C+E Sunscreen- SPF 50,420,495,4.4,DOT & KEY,Beauty and Personal Care,Unisex
+882,Light Moisturizing Cream,279,465,4.6,Nivea,Beauty and Personal Care,Unisex
+883,Hyaluronic Sunscreen Aqua Gel,464,499,4.6,The Derma co.,Beauty and Personal Care,Unisex
+884,Men Classic Black EDT 100 ml,2255,4100,4.2,JAGUAR,Beauty and Personal Care,Unisex
+885,Men Set of 2 Deodorants,308,560,4.6,Denver,Beauty and Personal Care,Unisex
+886,Skin-friendly Beard Trimmer,895,995,4.2,Philips,Beauty and Personal Care,Unisex
+887,Flawless Skin Lotion 120ml,160,220,4.5,Biotique,Beauty and Personal Care,Unisex
+888,Sustainable Onion Shampoo 250 ml,321,349,4.2,Mamaearth,Beauty and Personal Care,Unisex
+889,MG7715/65 Multi Groomer Set,4135,4595,4.3,Philips,Beauty and Personal Care,Unisex
+890,Intense Repair Conditioner,85,90,4.4,Dove,Beauty and Personal Care,Unisex
+891,Dark Spot Reduction Creme,157,225,4.3,Nivea,Beauty and Personal Care,Unisex
+892,Salicylic Face Wash,284,299,4.5,Minimalist,Beauty and Personal Care,Unisex
+893,Absolute Repair Shampoo 300ml,745,745,4.5,LOreal Professionnel,Beauty and Personal Care,Unisex
+894,BHS520/00 Hair Straightener,4197,6995,4.4,Philips,Beauty and Personal Care,Unisex
+895,Vitamin C Serum,664,699,4.4,Minimalist,Beauty and Personal Care,Unisex
+896,Aloe Fresh Body Lotion 400 ml,239,435,4.5,Vaseline,Beauty and Personal Care,Unisex
+897,Men Natural Body Spray - 70ml,178,325,4.5,Envy,Beauty and Personal Care,Unisex
+898,Men Cool Water EDT 75 ml,3320,4150,4.5,DAVIDOFF,Beauty and Personal Care,Unisex
+899,Extreme Grip Trimmer,5500,5500,3.2,WAHL,Beauty and Personal Care,Unisex
+900,Retinol 24 Facial Moisturizer,899,1999,4.6,Olay,Beauty and Personal Care,Unisex
+901,Bullets Z2 Wireless Neckband,1999,2299,4.1,OnePlus,Electronics,Unisex
+902,Airdopes 131 M TWS Earbuds,999,2990,4.1,boAt,Electronics,Unisex
+903,Airdopes 163 M TWS Earbuds,1299,2490,4.3,boAt,Electronics,Unisex
+904,24KT Gold Bar- 5 g,33273,36970,4.9,BANGALORE REFINERY,Gold,Unisex
+905,Storm Call Smart Watch,1599,7990,4.2,boAt,Electronics,Unisex
+906,Ninja Calling Pro Plus Watch,1699,9999,4.3,Fire-Boltt,Electronics,Unisex
+907,ColorFit Icon Buzz Smart Watch,1799,4999,4.2,NOISE,Watches,Unisex
+908,Hurricane Smartwatch,1599,8999,4.2,Fire-Boltt,Watches,Unisex
+909,Floral 24KT Gold Bar- 5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+910,Ring Smart Watch,1999,9999,4.2,Fire-Boltt,Watches,Unisex
+911,Techlife Wireless Buds T100,1499,2999,4.2,Realme,Electronics,Unisex
+912,Hurricane Smartwatch,1599,8999,4.2,Fire-Boltt,Watches,Unisex
+913,Storm Call Smart Watch,1599,7990,4.2,boAt,Electronics,Unisex
+914,24KT Gold Coin-5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+915,24KT Gold Coin Bar-1 g,6860,7623,4.9,BANGALORE REFINERY,Gold,Unisex
+916,Swastik 24KT Gold Coin-5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+917,24KT Gold Coin- 5 g,33426,37140,0.0,BANGALORE REFINERY,Gold,Unisex
+918,Ear 2 True Wireless Earphone,8999,12999,4.5,Nothing,Electronics,Unisex
+919,Men Analogue Watch,4497,8995,4.5,Armani Exchange,Watches,Unisex
+920,Bullets Z2 Wireless Neckband,1999,2299,4.2,OnePlus,Electronics,Unisex
+921,AirBuds Mini Bluetooth Headset,999,2999,4.0,NOISE,Electronics,Unisex
+922,Airdopes 131 M TWS Earbuds,1199,2990,4.3,boAt,Electronics,Unisex
+923,24KT Gold Coin- 5 gram,32893,36548,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+924,Airdopes 131 M TWS Earbuds,1299,2990,4.1,boAt,Electronics,Unisex
+925,Icon Buzz Smart Watch,1799,4999,4.4,NOISE,Watches,Unisex
+926,ColorFit Icon Buzz Smart Watch,1799,4999,4.3,NOISE,Watches,Unisex
+927,15 Inch Laptop Overnighter-45L,2999,10999,4.4,Tommy Hilfiger,Bags,Unisex
+928,Icon Buzz Smart Watch,1799,4999,4.2,NOISE,Watches,Unisex
+929,Color Fit Icon 2 Smartwatch,1999,5999,4.2,NOISE,Watches,Unisex
+930,24KT Gold Coin- 5 g,33426,37140,0.0,BANGALORE REFINERY,Gold,Unisex
+931,Nord Buds 2 ANC,2999,3299,4.1,OnePlus,Electronics,Unisex
+932,Men Analogue Watch,1925,5500,4.2,Daniel Klein,Watches,Unisex
+933,Rockerz 255 Pro M Neckband,1199,3499,4.0,boAt,Electronics,Unisex
+934,Buds VS102 Wireless Earbuds,1299,2999,4.1,NOISE,Electronics,Unisex
+935,Floral 24KT Gold Bar- 5 gram,33181,36868,0.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+936,Men Analogue Watch,12897,21495,4.5,Fossil,Watches,Unisex
+937,ColorFit Caliber Go SmartWatch,1499,3999,4.1,NOISE,Watches,Unisex
+938,TalkUltra Bluetooth Smartwatch,1699,9999,3.7,Fire-Boltt,Watches,Unisex
+939,Unisex Lunar Backpack,1199,3999,4.4,Wildcraft,Bags,Unisex
+940,Airdopes 163 M TWS Earbuds,1399,2490,4.2,boAt,Electronics,Unisex
+941,Ninja Calling Pro Plus Watch,1699,9999,4.2,Fire-Boltt,Electronics,Unisex
+942,Epic Plus Smart Watch,1299,9999,4.0,Fire-Boltt,Watches,Unisex
+943,Watch with Voice Assistance,4999,4999,4.3,NOISE,Watches,Unisex
+944,Men Chronograph Watch,10197,16995,4.4,Armani Exchange,Watches,Unisex
+945,Super-Size Trolley Bag,2499,9499,4.1,Safari,Bags,Unisex
+946,Beat BT Calling Smartwatch,2199,6499,3.9,boAt,Watches,Unisex
+947,Wireless Bluetooth Headset,1199,2990,4.2,boAt,Electronics,Unisex
+948,Printed Cabin-Sized Trolley Bag,2799,9045,4.1,Safari,Bags,Unisex
+949,Unisex Medium Hard Trolley Bag,2899,7880,4.2,VIP,Bags,Unisex
+950,Floral 24KT Gold Bar- 2 gram,13297,14775,5.0,CANDERE A KALYAN JEWELLERS COMPANY,Gold,Unisex
+951,Boys Pack of 5 T-shirt,699,4995,4.1,HELLCAT,Unknown,Unknown
+952,Boys Pack Of 5 Printed T-shirt,699,4995,4.1,HELLCAT,Kidswear - Boys,Unisex
+953,Pack of 5 Boys Cotton Shorts,799,4995,3.8,HELLCAT,Kidswear - Boys,Unisex
+954,Boys Pack of 3 Outdoor Shorts,528,2299,4.2,x2o,Kidswear - Boys,Unisex
+955,Pack Of 3 Printed Clothing Set,720,1800,4.3,Mars Infiniti,Kidswear - Boys,Unisex
+956,Unisex Kids Running Shoes,1379,4599,4.6,Red Tape,Footwear - Unisex,Unisex
+957,Unisex Kids Walking Shoes,1349,4499,4.5,Red Tape,Footwear - Unisex,Unisex
+958,Unisex Kids Walking Shoes,1349,4499,4.4,Red Tape,Footwear - Unisex,Unisex
+959,Pack Of 5 Printed T-shirt,699,4995,4.0,HELLCAT,Kidswear - Boys,Unisex
+960,Boys 4-Piece Dressy Set,1499,1499,4.7,H&M,Kidswear - Boys,Unisex
+961,Boys Pack Of 5 T-shirt,699,2100,4.4,KUCHIPOO,Kidswear - Boys,Unisex
+962,Kids Bayaband Solid Clogs,1313,2795,4.8,Crocs,Footwear - Unisex,Unisex
+963,Kids Bayaband Clogs,1397,2795,4.7,Crocs,Footwear - Unisex,Unisex
+964,Pack Of 3 Bio Finish T-shirt,509,2997,4.2,HELLCAT,Kidswear - Boys,Unisex
+965,Boys Graphic Printed T-shirt,291,1164,4.4,BonOrganik,Kidswear - Boys,Unisex
+966,Boys Printed T-shirt with Trousers,518,1400,4.3,Googo Gaaga,Kidswear - Boys,Unisex
+967,Boys Pack Of 3 Printed T-shirt,509,2997,4.0,HELLCAT,Kidswear - Boys,Unisex
+968,Pack of 6 Cotton Lounge Pants,839,2999,4.1,x2o,Kidswear - Boys,Unisex
+969,Unisex Kids Clogs Sandals,1172,2495,4.6,Crocs,Footwear - Unisex,Unisex
+970,Unisex Kids Running Shoes,1599,1999,4.6,Puma,Footwear - Unisex,Unisex
+971,Pure Cotton T-shirt & Trousers,518,1400,4.3,Googo Gaaga,Kidswear - Boys,Unisex
+972,Kids Classic Glitter Clogs,1347,2995,4.6,Crocs,Footwear - Unisex,Unisex
+973,Boys T-shirt with Shorts,462,1400,4.2,Googo Gaaga,Kidswear - Boys,Unisex
+974,Boys Kurta with Pyjamas,839,1999,4.2,JBN Creation,Kidswear - Boys,Unisex
+975,Infants T-Shirt with Pyjamas,399,699,4.5,ariel,Kidswear - Infants,Unisex
+976,Unisex Kids Walking Shoes,1379,4599,4.3,Red Tape,Footwear - Unisex,Unisex
+977,Boys Regular Shorts,499,999,4.1,PLUM TREE,Kidswear - Boys,Unisex
+978,Boys Spider Man Clogs,1797,3995,4.8,Crocs,Footwear - Unisex,Unisex
+979,Boys Printed T-shirt with Shorts,462,1400,4.5,Googo Gaaga,Kidswear - Boys,Unisex
+980,Boys 3-Pack Cotton T-Shirts,1499,1499,4.5,H&M,Kidswear - Boys,Unisex
+981,Boys Printed Panchakattu,1950,1950,4.5,Tiber Taber,Kidswear - Boys,Unisex
+982,Boys Printed Applique T-shirt,510,1700,4.4,YK Marvel,Kidswear - Boys,Unisex
+983,Boys Printed T-shirt,359,1332,4.6,BONKIDS,Kidswear - Boys,Unisex
+984,Boys 3-Piece Clothing Set,2299,2299,4.7,H&M,Kidswear - Boys,Unisex
+985,Punch Comfort Youth Sneakers,2699,2999,4.7,Puma,Footwear - Unisex,Unisex
+986,Boys 3-Pack Cotton T-Shirts,1499,1499,4.3,H&M,Kidswear - Boys,Unisex
+987,Boys Printed Night suit,496,1399,4.0,LilPicks,Kidswear - Boys,Unisex
+988,Infant Boys Clothing Set,672,1400,4.2,Googo Gaaga,Kidswear - Boys,Unisex
+989,Kids Pack of 10 Pure Cotton T-shirts,769,1099,3.7,MANZON,Kidswear - Boys,Unisex
+990,Boys Printed T-shirt with Shorts,462,1400,4.3,Googo Gaaga,Kidswear - Boys,Unisex
+991,Kids Racer Youth V1 Sneakers,1949,2999,4.7,Puma,Footwear - Unisex,Unisex
+992,Kids Printed Night suit,999,1499,4.5,Knitting Doodles,Kidswear - Boys,Unisex
+993,Boys T-shirt with Trouser,644,1400,4.5,Googo Gaaga,Kidswear - Boys,Unisex
+994,Boys Printed Kurta with Dhoti Pants,1650,1650,4.5,Tiber Taber,Kidswear - Boys,Unisex
+995,Boys Printed Kurti with Dhoti Pants,1259,2999,4.3,VASTRAMAY,Ethnic Wear - Women,Women
+996,Boys 2-Piece Cotton Set,1499,1499,0.0,H&M,Kidswear - Boys,Unisex
+997,Kids Racer Youth V1 Sneakers,1949,2999,4.4,Puma,Footwear - Unisex,Unisex
+998,Boys Pack Of 5 Cotton T-shirt,844,6495,3.8,HELLCAT,Kidswear - Boys,Unisex
+999,Boys Pack Of 2 Superhero Printed Joggers,665,2375,4.3,YK Marvel,Kidswear - Boys,Unisex
+1000,Casual Cotton Shirt,725,2199,4.2,A.T.U.N.,Men's Shirts,Men
